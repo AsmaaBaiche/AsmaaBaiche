@@ -17,7 +17,7 @@
 - 📊 **[Ftanasy-appMobile ](https://github.com/AsmaaBaiche/fantazy-flutter-app)**  
   A Flutter app celebrating Algerian football culture, offering a local fantasy league experience.
 
-- 🛍️ Workflow Platform (private repo)
+- 🛍️ Magflow Platform (private repo)
 A school store management system built for internal use — streamlining product stock, staff roles, and activity tracking.
 ---
 
