@@ -6,21 +6,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛵 **[Food Delivery App](https://github.com/AsmaaBaiche/Food-Delivery-App)**  
-  A multi-role Flutter app for restaurants, clients, delivery agents, and admin with real-time geolocation
-
-- 🔐 **[Check-mate](https://github.com/AsmaaBaiche/Check-mate)**  
- An IoT-based embedded system for employee check-ins and presence tracking in real-time.
-
-- 📊 **[Ftanasy-appMobile ](https://github.com/AsmaaBaiche/fantazy-flutter-app)**  
-  A Flutter app celebrating Algerian football culture, offering a local fantasy league experience.
-
-- 🛍️ Magflow Platform (private repo)
-A school store management system built for internal use — streamlining product stock, staff roles, and activity tracking.
----
-
 ## 🧰 Technical Skills
 - **Languages**: `Dart`, `HTML/CSS`, `JavaScript`, `SQL`, `C`
 - **Frameworks & Tools**: `Flutter`, `Node.js`, `Pentaho`, `Git`, `Figma`, `Appwrite`, `Arduino IDE`
